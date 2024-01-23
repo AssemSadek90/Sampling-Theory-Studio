@@ -75,7 +75,7 @@
   <ul>
     <li><a href="https://github.com/AssemSadek90">Assem Sadek</a></li>
   </ul>
-  <p href="https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem">Reference</p>
+  <a href="https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem">Reference</a>
 
   <h2>License</h2>
   <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
